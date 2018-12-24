@@ -1,0 +1,131 @@
+                              <USER REQIREMENTS (Users activites)>
+
+
+1.Hearing
+
+
+	In this part of the book will explain what requirements that this program provides to the user. This part will be divided into three important points which are listening, speaking and reading.
+
+
+A.Audio with several texts and one of them are correct:	 
+  
+  One of the imporant goals that this project aims to make is audio regonizing, so user can regonize which the correct text that he heared in the audio and choose which text is correct.
+
+
+B.Audio and then the sentence with missing words:
+ 
+  In the other hand detecting the missing words to make it easy for user to hear the audio and read the text that the program shows then detect the missing words in the text that supposed to contain the all of the audio words.
+	
+
+C.Audio and try to find the mistake in the text:
+
+  In another part in this program is detecting the text's mistake, User also able to hear the audio then determine word's wrong spelling or sentance's wrong grammer and in the puzzle section.
+  
+  
+D.Audio and then JIGSAW puzzle:
+
+  The user can hear the audio and then find the missing words and complete the space with any words using his imagination or choose from several choices.
+
+E.Audio with a word and then check if it is said or not:
+
+  User also can know if any word is missed in the text using the part of word's existence,In this section the user will hear the recording and then identify the words spoken and the words that didn't exist.
+
+
+F.Audio and then enter the sentence that you understand:
+
+ The program provides the advantage of converting audio to text, In this case the user will listen to the audio recording and then convert it to writing text.
+
+
+G.Several audios with a common word to get it out:
+
+  In addition, the user can use another feature, which is to listen to more than one sentence in more than one text and specify the common word in all texts and write them.
+
+
+H.Insert an audio you need to understand and the sentence you think and we will out the sentence with corrections: 
+
+ It can also compare text and audio recording so that user can insert text and record and then the program compares and determine the difference or errors.
+
+
+
+
+I.Audio and two similar wards and then what did you hear:
+
+  In the last part of this paragraph there is also a good advantage to the user is that the user can use the program to differentiate between words similar to the speaking according to different places where the program speaks more than the whole and then heard by the user and determines the difference and here we have finished the part of hearing.
+
+
+
+
+
+
+
+2.Speaking
+
+	After the completion of the hearing part we move to the part which is also very important part, it is the speaking, in this paragraph i will show the activites that the user will practice in all kinds of speaking.
+
+A.Listen to the right voices in letters , words, sentences:
+
+  The first point in this paragraph is that the user read a word or sentence or text and then the program assesses the validity of this pronunciation also corrects mistakes and then the user to utter again and so on.
+
+
+B.Choose the right word:
+
+  In the second point the program will show and pronounce of the word in more than one format so that the user can distinguish between the correct and the wrong pronunciation and choose the correct one.
+
+
+C.Simi words with  different voices:
+
+In another point the program will display the same word or sentence itself but different in pronunciation the user should recognize the word.
+
+
+D.Speak after listening:
+
+  At this point the program will utter certain text to be heard by the user and then the user will utter the text after hearing it, The program will evaluate this pronunciation and determine its validity, If it is proven wrong, the user will be asked to repeat it again.
+
+
+E.Choose the right voice for the words or sentences:
+
+ This point is very similar to the second point with some variations, but here the program puts more than one audio recording of a particular text so that the user can determine which of these recordings contain correct pronunciation.
+
+
+F.Conversation modules:
+
+  In the last part of this section, the program gives the user the opportunity to make voice conversations so that the user utters a sentence or a question to be answered by the program or vice versa until finishing the conversation.
+This feature makes the user feel like he is in a real training session, And in this point we have finished this paragraph's discussion.
+
+
+
+
+  
+
+
+
+3.Reading
+
+A.Some words from the sentence with its graphic shape:
+
+  In this part we will talk about reading, The first point in this part is that the program displays the sentence that contain more than a word and ask the user for a certain word to make sure that he knows it's form.
+
+B.choose the words according to the Image and audio:
+
+  In this section, the program shows a specific record or image, The user will recognize the word then the program will evaluate user's answer.
+
+
+C.Make a small paragraph with images and audios:
+
+  As for this point, the user will listen to a specific audio or see a particular picture and then write a paragraph about what he could perceive from the audio or image.
+
+
+D.Choose the missing word:
+
+  This part has been discussed before in one of the previous parts, the user will read the a specific paragraph accurately and if it does not contain certain words necessary, the user will complete the incomplete sentances.
+
+
+E.Rearrange the randomly sentences according to the story cycle:
+
+  At this point it can be used in short stories or even in regular texts, the program will show the sentences in an untidy form, and the user will arrange these sentences according to his understanding.
+
+
+
+F.Combine the sentence from the Sections:
+
+  Finally we have reached the last point in the part of reading, at this point the program will show different sentences or words in different places and then ask the user to collect them in an orderly manner so that he can write an ordered and understandable paragraph of these sentences.  		
