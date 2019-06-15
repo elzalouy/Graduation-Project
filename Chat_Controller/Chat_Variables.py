@@ -6,7 +6,7 @@ Created on Fri May  3 01:00:55 2019
 """
 
 bot_name="English Assistant"
-User_Public_Requests={
+User_Public_messages={
         "Let's See the account":
         [
                 "account",
@@ -30,6 +30,7 @@ User_Public_Requests={
                 ],
         "start laerning":
         [
+                "let's start",
                 "start learning",
                 "let's start learning",
                 "could we start learning",
@@ -68,7 +69,7 @@ User_Public_Requests={
                 "learn words"
                 ]
         }
-Chat_public_responses={
+Chat_public_messages={
         "What's your name":
         [
                 "My name is {0}".format(bot_name)+". ",
@@ -83,8 +84,9 @@ Chat_public_responses={
                 "I will help improve your english tongue and grammar",
                 "My job is to teach you how to use english"
                 ],
-        "let's start learning":
+        "start learning":
                 [
+                        "let's start learning",
                 "Ok, We will help you  to learn more about english",
                 "The skills you need to improve are reading, writing, speaking, and listening. Let's start",
                 "Sure, Let's Go",
@@ -114,8 +116,13 @@ Chat_Requests_Responses={
                     "some words first!",
                     "firstly, learn some words"
                     ],
-            "reading words":{"yes":["sure","okay","yes","of course","let's start"],"no":["sorry","no","don't like","bad","not now"]},
-            "no.":["i hope you like that. how can i help ?","if you don't like that, so how can i help you?"],
-            "wrong answer.":["Sorry, that's not the answer.","Ooh, i will help you.","that's wrong, let me help you."]
-            
+            "reading words":{
+                    "yes":
+                    ["sure","okay","yes","of course","let's start"]
+                    ,"no":
+                    ["sorry","no","don't like","bad","not now"]
+                    },
+                "no.":
+                ["i hope you like that. how can i help ?","if you don't like that, so how can i help you?"],
+                "wrong answer.":["Sorry, that's not the answer.","Ooh, i will help you.","that's wrong, let me help you."]            
         }
