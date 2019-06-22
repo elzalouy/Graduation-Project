@@ -1,5 +1,13 @@
 {
 "User_Public_messages":{
+        "what can you do":[
+                "what can you do",
+                "how can you help me",
+                "what is the services you can do",
+                "how can i learn here",
+                "tell me the services you offer",
+                "what can the chat do"
+        ],
         "let's see the account":[
                 "account",
                 "let's see the account",
@@ -23,6 +31,7 @@
         "start laerning":[
                 "let's start",
                 "start learning",
+                "learn english",
                 "let's start learning",
                 "could we start learning",
                 "i need to acquire a knowledge of english",
@@ -73,7 +82,7 @@
                 "I will help improve your english tongue and grammar",
                 "My job is to teach you how to use english"
                 ],
-        "start learning":
+        "let's start learning":
                 [
                         "let's start learning",
                 "Ok, We will help you  to learn more about english",
@@ -90,27 +99,16 @@
                 "OK, Let's learn some words",
                 "that's a good start, learning words is a good step. Let's learn"
                 ],
-        "default":"Sorry I don't understand what do you need"
-},
-"Chat_Requests_Responses":{
-        "start learning?":["I hope you like that, and let's start learning. okay?",
-                           "Can we satrt now?"],
-        "start learning.":{"yes":["sure","okay","yes","of course","let's start"], "no":["no","sorry","don't like","bad"]},
-        "reading words?":
-            [
-                    "I will show you some words to learn now, okay?",
-                    "Here are some words to make english more powerfull",
-                    "some words first!",
-                    "firstly, learn some words"
-                    ],
-            "reading words":{
-                    "yes":
-                    ["sure","okay","yes","of course","let's start"]
-                    ,"no":
-                    ["sorry","no","don't like","bad","not now"]
-                    },
-                "no.":
-                ["i hope you like that. how can i help ?","if you don't like that, so how can i help you?"],
-                "wrong answer.":["Sorry, that's not the answer.","Ooh, i will help you.","that's wrong, let me help you."]            
-        }
+
+        "wrong answer.":
+                ["Sorry, that's not the answer.","Ooh, i will help you.","that's wrong, let me help you."],
+        "correct answer":
+                ["Great, keep going","OKay, jsut go on.","good","you are excellent"],
+        "default":"Sorry I don't understand what do you need",
+        "explain":["explain","explain it","not understand","not understanding","again","i don't understand"],
+        "done":["done","okay","understand"],
+        "the answer":["i will show you the answer", "here is the answer","will help you to know that answer"],
+        "the services":["I can help you to improve the four main skills in any language which are reading, writing, speaking, and listening",
+                "I can learn you how to hear people and speak with them. In other side, we also focusing on the reading and writing skills."]
+}
 }
